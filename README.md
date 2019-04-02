@@ -1,2 +1,2 @@
 # devops_test
-test repo
+test repo for devops learning
